@@ -1,10 +1,8 @@
 - 👋 Hi, I’m YunPeng Zhu
 - 👀 I’m interested in Meachine Learning
 - 🌱 I’m currently learning Physics Informed Neural Network(PINN)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m seeking opportunities to pursue a Ph.D. in mathematics
 - 📫 How to reach me 3137168510@qq.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 ZzYyPp47/ZzYyPp47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
