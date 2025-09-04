@@ -1,6 +1,5 @@
 - 👋 Hi, I’m YunPeng Zhu
 - 👀 I’m interested in Meachine Learning
-- 🌱 I’m currently learning Physics Informed Neural Network(PINN)
 - 💞️ I’m seeking opportunities to pursue a Ph.D.
 - 📫 How to reach me 3137168510@qq.com
 
