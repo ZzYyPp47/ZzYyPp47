@@ -1,5 +1,5 @@
-- 👋 Hi, I’m YunPeng Zhu
-- 👀 I’m interested in Meachine Learning
+- 👋 Hi, I’m Yunpeng ZHU
+- 👀 I’m interested in SciML on Phase-Field, Finite Element Method.
 - 💞️ I’m seeking opportunities to pursue a Ph.D.
 - 📫 How to reach me 3137168510@qq.com
 
