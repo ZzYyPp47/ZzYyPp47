@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yunpeng ZHU  
-- 🔬 My current research focuses on Phase-Field modeling, Physics-Informed Neural Networks (PINN), Scientific Machine Learning (SciML), Finite Element Methods, and Machine Learning.  
+- 🔬 My current research focuses on Phase-Field, Physics-Informed Neural Networks (PINN), Scientific Machine Learning (SciML), Finite Element Methods, and Machine Learning.  
 - 🎓 B.Sc. in Mathematics and Applied Mathematics – Chang'an University  
 - 🎓 M.Sc. in Artificial Intelligence and Big Data Computing – The Hong Kong Polytechnic University  
 - 🎓 Ph.D. student in Computational Mathematics – Chongqing University
